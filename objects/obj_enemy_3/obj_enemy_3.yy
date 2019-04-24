@@ -1,18 +1,18 @@
 {
-    "id": "10791499-951e-42d9-b697-96af529aa7d6",
+    "id": "6d08a3e4-b973-42a5-b1a4-e4400335aa9e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_2",
+    "name": "obj_enemy_3",
     "eventList": [
         {
-            "id": "d44bb15a-2d50-4766-ae6f-24c270fa555e",
+            "id": "3d1a074d-727e-4119-80ed-1e6780542af7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "10791499-951e-42d9-b697-96af529aa7d6"
+            "m_owner": "6d08a3e4-b973-42a5-b1a4-e4400335aa9e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

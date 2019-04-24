@@ -9,7 +9,6 @@ if(global.current_room == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 51DF3319
 	/// @DnDParent : 4FA374C4
-	/// @DnDArgument : "room" "room0"
-	/// @DnDSaveInfo : "room" "93166eeb-beab-4b13-94fa-6e53561168f8"
-	room_goto(room0);
+	/// @DnDArgument : "room" "level"
+	room_goto(level);
 }

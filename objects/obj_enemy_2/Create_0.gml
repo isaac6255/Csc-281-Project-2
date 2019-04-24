@@ -1,10 +1,11 @@
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1
 /// @DnDHash : 3E563593
-/// @DnDArgument : "path" "path_1_2"
+/// @DnDArgument : "path" "path2"
 /// @DnDArgument : "atend" "path_action_continue"
-/// @DnDSaveInfo : "path" "c5870646-faea-4d31-ac4f-a142e03cda18"
-path_start(path_1_2, 1, path_action_continue, false);
+/// @DnDArgument : "relative" "true"
+/// @DnDSaveInfo : "path" "8c7562b3-4263-46e5-bf6d-79126da3851a"
+path_start(path2, 1, path_action_continue, true);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

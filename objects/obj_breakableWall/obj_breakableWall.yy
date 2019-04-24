@@ -1,23 +1,23 @@
 {
-    "id": "10791499-951e-42d9-b697-96af529aa7d6",
+    "id": "66ae148b-ed28-490c-8394-40299e0dc349",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_2",
+    "name": "obj_breakableWall",
     "eventList": [
         {
-            "id": "d44bb15a-2d50-4766-ae6f-24c270fa555e",
+            "id": "04307a27-b382-4d28-913b-b2806a11cdae",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "f470dfe6-6afe-4b0a-bc12-66f995717401",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "10791499-951e-42d9-b697-96af529aa7d6"
+            "eventtype": 4,
+            "m_owner": "66ae148b-ed28-490c-8394-40299e0dc349"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "603e1605-7f29-4e90-ad8a-87a970287793",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f279e48a-0da0-4c47-b39f-ddc6918fce40",
+    "spriteId": "9543a80d-7a0d-4e32-bef4-7560c2ee84eb",
     "visible": true
 }
